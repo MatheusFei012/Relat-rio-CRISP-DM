@@ -35,7 +35,35 @@ Há um total de 7 colunas e 364 linhas, após a realização do CRISP-DM.
 
 CARACTERÍSTICAS: Granularidade Geográfica, Categoria, Localidade, UF, Ano, Valor, Indicador.
 
-## Modelagem
+## 3. Modelagem
+
+### Processo ETL
+
+**Limpeza de dados**: Removi linhas e colunas que não foram úteis, que ajuda na compreensão dos meu dados, facilitando a sua vizualição.
+
+Colunas removidas: Filtro, Estado, Tipo Valor.
+
+**Implementação de Dados e Substituição**: Na coluna localidade, tinha alguma linhas onde não estavam preenchidas como estado, apenas estava escrito região ou Brasil, para uma compreensão melhor, substitui a região por Brasil, tendo assim uma melhor correlação de dados. Após isso implementei dados na coluna UF, em que todas as linhas que estava em braco eu coloquei a abreviação de Brasil (BR), onde ajuda uma melhor visualização dos dados.
+
+**Label Enconding**: o Label Enoconding é um método que atribui cada categoria a um número inteiro único, nesse caso apliquei essa forma nas minhas colunas categoria e localidade.
+
+- Coluna categoria: Total = 0
+
+- Coluna Localidade: Brasil = 0, Estado = 1.
+
+**Média para Substituição**:
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
