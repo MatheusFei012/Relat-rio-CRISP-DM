@@ -22,7 +22,9 @@ O conjunto de dados para este projeto é do repositório [TCE - Dados Abertos](h
 
 ## Plano 
 
-O meu conjunto de dados tem como plano de prever um aumento na porcentagem brasileira de alfabetizados durante o passar dos anos, e tem como foco atingir mais de 95% de sua população alfabetizada.
+O meu conjunto de dados tem como plano de prever um aumento na porcentagem brasileira de alfabetizados durante o passar dos anos, e tem como foco atingir mais de 95% de sua população alfabetizada até 2025.
+![image](https://github.com/user-attachments/assets/724153e8-f39f-4ac6-a26a-ef421ae3bee0)
+
 
 
 
