@@ -18,7 +18,7 @@ O conjunto de dados para este projeto é do repositório [TCE - Dados Abertos](h
 
 - O escopo dessa amostra é criar um conjunto de dados sólidos com base no modelo CRISP-DM, que possa ser bem compreendido por todos.
 - Executei a importação dos dados, compreensão, entendimento, preparção, modelagem, validação e por final a conclusão dos dados.
-- Métodos ultilizados: limpeza de dados, label enconding, implementação de dados através da média da coluna, regressão linear, criação de gráficos no Power BI.
+- Métodos ultilizados: limpeza de dados, label enconding, implementação de dados através da média da coluna, regressão linear, criação de gráficos através regressão.
 
 ## Plano 
 
@@ -57,13 +57,27 @@ Colunas removidas: Filtro, Estado, Tipo Valor.
 
 **Regressão Linear**: Regressão é um método estatístico que permite modelar relações entre uma variável dependente e uma ou mais variáveis ​​independentes. Uma análise de regressão permite inferir ou prever outra variável com base em uma ou mais variáveis.
 
-Aplicação: Foram aplicadas a regressão linear na coluna F e na Coluna E.
+Aplicação: Foram aplicadas a regressão linear na coluna E e na Coluna F.
 
-- Intervalo y : Coluna F, onde apresenta a taxa de alfabetização dos estudantes brasileiros.
 - Intervalo x: Coluna E, apresenta os anos.
+- Intervalo y : Coluna F, onde apresenta a taxa de alfabetização dos estudantes brasileiros.
 
 
 ![image](https://github.com/user-attachments/assets/05fc09e4-e327-4c7b-aede-795c44538d1f)
+
+## Gráficos:
+
+
+![image](https://github.com/user-attachments/assets/de49bace-66c5-452c-bbe1-5b658fe24c60)
+
+![image](https://github.com/user-attachments/assets/ac99094c-9e4b-46e0-b576-8330833817f8)
+
+
+
+
+
+
+
 
 
 
