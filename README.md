@@ -20,6 +20,10 @@ O conjunto de dados para este projeto é do repositório [TCE - Dados Abertos](h
 - Executei a importação dos dados, compreensão, entendimento, preparção, modelagem, validação e por final a conclusão dos dados.
 - Métodos ultilizados: limpeza de dados, label enconding, implementação de dados através da média da coluna, regressão linear, criação de gráficos no Power BI.
 
+## Plano 
+
+O meu conjunto de dados tem como plano de prever um aumento na porcentagem brasileira de alfabetizados durante o passar dos anos, e tem como foco atingir mais de 95% de sua população alfabetizada.
+
 
 
 
