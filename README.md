@@ -65,7 +65,7 @@ Aplicação: Foram aplicadas a regressão linear na coluna E e na Coluna F.
 
 ![image](https://github.com/user-attachments/assets/05fc09e4-e327-4c7b-aede-795c44538d1f)
 
-### Gráfricos:
+### Gráficos:
 
 ![image](https://github.com/user-attachments/assets/de49bace-66c5-452c-bbe1-5b658fe24c60)
 
