@@ -67,6 +67,8 @@ Aplicação: Foram aplicadas a regressão linear na coluna E e na Coluna F.
 
 ### Gráficos:
 
+Criação: Para o gráfico ficar dessa maneira eu colquei os dados do menor para o maior, com base nos anos,e por fim apliquei a regressão linear em análise de dados no excel, abaixo temos 2 gráficos, o primeiro foi dado pelo excel, já o segundo foi feito por mim, através do gráfico de colunas.
+
 ![image](https://github.com/user-attachments/assets/de49bace-66c5-452c-bbe1-5b658fe24c60)
 
 ![image](https://github.com/user-attachments/assets/ac99094c-9e4b-46e0-b576-8330833817f8)
