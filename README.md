@@ -6,7 +6,7 @@ O tema dos meus dados são sobre o índice de alfabetização no Brasil, e tem c
 
 ## Compreensão do Projeto
 
-Este é um projeto semestral da matéria banco de dados na universidade FEI (Fundação Educacional Inaciana Padre Sabóia de Medeiros), nessa atividade realizarei uma análise de dados no meu data-set, onde aborda o índice de alfabetização no Brasil, nele será realizado o método de CRISP-DM. 
+Este é um projeto semestral da matéria Fundamentos da Ciência e Vizualização de Dados na universidade FEI (Fundação Educacional Inaciana Padre Sabóia de Medeiros), nessa atividade realizarei uma análise de dados no meu data-set, onde aborda o índice de alfabetização no Brasil, nele será realizado o método de CRISP-DM. 
 
 ## Definição do Problema
 
