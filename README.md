@@ -65,15 +65,13 @@ Aplicação: Foram aplicadas a regressão linear na coluna E e na Coluna F.
 
 ![image](https://github.com/user-attachments/assets/05fc09e4-e327-4c7b-aede-795c44538d1f)
 
-
-## 4. Conclusão
-
+### Gráfricos:
 
 ![image](https://github.com/user-attachments/assets/de49bace-66c5-452c-bbe1-5b658fe24c60)
 
 ![image](https://github.com/user-attachments/assets/ac99094c-9e4b-46e0-b576-8330833817f8)
 
-##Conclusão
+## 4. Conclusão
 
 Bom como obseervado a cima, temos um modelo de CAPSTONE, onde aplica as normas de CRISP-DM, nesse código me ajudou em diversas formas, tais delas como:
 
