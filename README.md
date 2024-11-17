@@ -54,6 +54,7 @@ Colunas removidas: Filtro, Estado, Tipo Valor.
 **Média para Substituição**: Na coluna Valor, onde é apresentado os dados da porcentagem de alfabetização, tinhas valores nulos em 2020 e em 2021, então eu fiz a média dos valores dos anos anteriores e preenchi as linhas em branco de 2020, após isso refiz o mesmo processo já com as linhas de 2020 preenchidas e depois preenchi as linhas de 2021.
 
 Código para 2020:  =MÉDIA(F1:F298)
+
 Código para 2021:  =MÉDIA(F1:F332)
 
 
