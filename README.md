@@ -72,8 +72,17 @@ Aplicação: Foram aplicadas a regressão linear na coluna E e na Coluna F.
 
 ![image](https://github.com/user-attachments/assets/ac99094c-9e4b-46e0-b576-8330833817f8)
 
+#Conclusão
 
+Bom como obseervado a cima, temos um modelo de CAPSTONE, onde aplica as normas de CRISP-DM, nesse código me ajudou em diversas formas, tais delas como:
 
+- Limpeza dos dados: foi possível eliminar informações que não eram úteis ou relevantes, o que ajudou a organizar melhor o conjunto de dados e focar nas variáveis essenciais para a análise. Esse processo foi indispensável para tornar os dados mais claros e objetivos.
+
+- Preparação dos dados: algumas estratégias foram fundamentais, como a utilização de Label Encoding para transformar categorias em valores numéricos e o preenchimento de valores ausentes com médias. Isso garantiu que o conjunto de dados estivesse mais completo e consistente, evitando problemas durante as etapas de modelagem.
+
+- Modelagem de regressão linear: foi possível criar projeções sobre como o índice de alfabetização tem evoluído ao longo do tempo. Esse método permitiu identificar tendências e estimar como a taxa de alfabetização poderá se comportar nos próximos anos. Essa etapa foi essencial para cumprir o objetivo principal do projeto: compreender e prever o aumento do índice de alfabetização no Brasil até 2025.
+
+- Visualização dos resultados: foi uma das partes mais importantes, pois os gráficos gerados permitiram enxergar de forma clara o comportamento dos dados e identificar possíveis lacunas. Os gráficos de linha e a análise da probabilidade normal foram úteis para validar o modelo e observar padrões na evolução dos índices de alfabetização.
 
 
 
