@@ -29,7 +29,7 @@ O meu conjunto de dados tem como plano de prever um aumento na porcentagem brasi
 
 ## 2. Compreensão dos Dados
 
-Esses dados foram extraídos do banco de dados do TCE - Dados Abertos. [Repositório com explicação.](https://dadosabertos.tce.go.gov.br/dataset/taxa-de-alfabetizacao-de-pessoas-de-15-anos-ou-mais-de-idade).
+Esses dados foram extraídos do banco de dados do TCE - Dados Abertos. [Repositório com explicação](https://dadosabertos.tce.go.gov.br/dataset/taxa-de-alfabetizacao-de-pessoas-de-15-anos-ou-mais-de-idade).
 
 Há um total de 7 colunas e 364 linhas, após a realização do CRISP-DM.
 
