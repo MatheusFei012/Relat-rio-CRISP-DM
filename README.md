@@ -4,7 +4,7 @@ Este relatório é sobre as aplicações do CRISP-DM em um conjunto de dados sob
 
 O tema dos meus dados são sobre o índice de alfabetização no Brasil, e tem como objetivo, o aumento de pessoas alfabetizadas com o passar dos anos.
 
-## Compreesão do Projeto
+## Compreensão do Projeto
 
 Este é um projeto semestral da matéria banco de dados na universidade FEI (Fundação Educacional Inaciana Padre Sabóia de Medeiros), nessa atividade realizarei uma análise de dados no meu data-set, onde aborda o índice de alfabetização no Brasil, nele será realizado o método de CRISP-DM. 
 
@@ -26,6 +26,18 @@ O meu conjunto de dados tem como plano de prever um aumento na porcentagem brasi
 
 
 ![image](https://github.com/user-attachments/assets/a9d38bf0-fd90-427f-9655-ea2d8860477e)
+
+## 2. Compreensão dos Dados
+
+Esses dados foram extraídos do banco de dados do [TCE - Dados Abertos](https://dadosabertos.tce.go.gov.br/).
+
+Há um total de 7 colunas e 364 linhas, após a realização do CRISP-DM.
+
+CARACTERÍSTICAS: Granularidade Geográfica, Categoria, Localidade, UF, Ano, Valor, Indicador.
+
+## Modelagem
+
+
 
 
 
